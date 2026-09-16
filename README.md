@@ -26,7 +26,7 @@ ionic serve
 ```
 
 ## Status
-In development · Academic project for IHM, ESTG - UNIPVC (2026)
+In development · Academic project for Human-Computer Interaction, ESTG - UNIPVC (2026)
 
 ## Authors
 Rodrigo Vieira · André Flores · Laurindo Gonçalves
